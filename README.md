@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - 😄 Pronouns: she/her
 - 💬 Ask me about anything
-- 📫 How to reach me: mok03189@naver.com
+- 📫 How to reach me: alicia.hyojukim@gmail.com
 
 
 <!--
