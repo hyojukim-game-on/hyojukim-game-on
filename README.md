@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **Algorithm, BackEnd: Django, FrontEnd: Javascript (later: vue.js) **
+- 🔭 I’m currently working on **Algorithm, BackEnd: Django, FrontEnd: Javascript (later: vue.js)**
 
 - 🌱 I’m currently learning
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
