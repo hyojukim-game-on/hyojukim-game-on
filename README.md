@@ -1,22 +1,27 @@
-### Hi there 👋
+### hyojukim-game-on 의 깃허브입니다.
 
- 🌱 Skillsets
- 
-  **FRONTEND**
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  
-  **BACKEND**
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<br>
 
+[개발 블로그](https://citadel-life.tistory.com/)
 
-  😄 Pronouns: she/her
-  📫 How to reach me: alicia.hyojukim@gmail.com
+<br>
 
+- 희망 직무 : Software Engineer (Backend Developer)
 
-<!--
-**hyojukim-game-on/hyojukim-game-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+
+**다룰 수 있는 기술 (프로젝트 1개 완료)**
+ - Backend : Python, Django
+ - Frontend : HTML/CSS, Vue 3
+
+<br>
+
+**공부 중인 기술 (프로젝트 진행중)**
+ - Backend : Java, Spring Boot, JPA
+ - Database : PostGreSql (+PostGIS), MongoDB, Redis
+
+<br>
+
+**앞으로 공부 해보고 싶은 기술**
+ - Backend : QueryDsl
+ - Infra : Amazon EC2, S3, Docker(+Kubernetis), GraphQL, Jenkins
