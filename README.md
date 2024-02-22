@@ -6,19 +6,19 @@
 
 <br>
 
-- 희망 직무 : Software Engineer (Backend Developer)
+- 희망 직무 : Backend Engineer
 
 <br>
 
-**다룰 수 있는 기술 (프로젝트 1개 완료)**
- - Backend : Python, Django
+**다룰 수 있는 기술 (프로젝트 2개 완료)**
+ - Backend : Python, Django, Java, Spring Boot, JPA
+ - Database : PostGreSql (+PostGIS), MongoDB, Redis
  - Frontend : HTML/CSS, Vue 3
 
 <br>
 
 **공부 중인 기술 (프로젝트 진행중)**
- - Backend : Java, Spring Boot, JPA
- - Database : PostGreSql (+PostGIS), MongoDB, Redis
+ - Backend : Java, Spring Boot, JPA, Hadoop
 
 <br>
 
