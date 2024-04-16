@@ -26,14 +26,3 @@
   <strong>Database</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-<h4 align="center">해본 적 있어요</h4>
-
-<p align="center">
-  <strong>Frontend</strong><br>
-  - Frontend : HTML/CSS, Vue 3<br>
-  <strong>Database</strong><br>
-  - Database : PostgreSQL (+PostGIS), MongoDB, Redis<br>
-  <strong>Infra</strong><br>
-  - Infra : MSA 서비스 간 통신 (OpenFeign), CI/CD (GitLab, Jenkins), NGINX, LINUX (Ubuntu 20.04 LTS), Docker, Docker Compose
-</p>
